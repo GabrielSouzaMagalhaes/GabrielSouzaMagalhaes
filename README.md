@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/c68a9b0e-ee85-4bef-80b5-ad2f7a423832.gif" alt="Banner" width="100%" />
 
 ## 👻 Sobre mim
 - Sou um explorador do código e da lógica — mergulhando no Desenvolvimento Mobile e Full-Stack com estratégia e criatividade. Busco transformar algoritmos complexos (como em jogos de estratégia) em experiências visuais ricas e envolventes.
