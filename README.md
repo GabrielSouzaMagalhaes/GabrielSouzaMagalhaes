@@ -1,4 +1,4 @@
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Sou Gabriel Magalhães</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">Olá! Sou Gabriel Magalhães</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=GabrielSouzaMagalhaes">
