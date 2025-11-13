@@ -1,11 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Gabriel  Magalhães</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=GabrielSouzaMagalhaes">
-    <img src="https://komarev.com/ghpvc/?username=GabrielSouzaMagalhaes&label=Profile%20views&color=00FFFF&style=flat-square" alt="GabrielSouzaMagalhaes's profile views" />
-  </a>
-</p>
 
 <img src="e72697f0e27e9ffe53089c1ade7593ee.gif" alt="Banner" width="100%" />
 
