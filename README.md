@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/c68a9b0e-ee85-4bef-80b5-ad2f7a423832" alt="Banner" width="100%" />
 
 ## 👻 Sobre mim
-- Sou um explorador do código e da lógica — mergulhando no Desenvolvimento Mobile e Full-Stack com estratégia e criatividade. Busco transformar algoritmos complexos (como em jogos de estratégia) em experiências visuais ricas e envolventes.
+Sou um explorador do código e da lógica — mergulhando no Desenvolvimento Mobile e Full-Stack com estratégia e criatividade. Busco transformar algoritmos complexos (como em jogos de estratégia) em experiências visuais ricas e envolventes.
 
 
 ## 
