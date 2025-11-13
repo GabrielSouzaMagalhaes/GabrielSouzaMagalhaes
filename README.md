@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://www.deviantart.com/kirokaze/art/Wallpaper-Engine-910182823" alt="Banner" width="100%" />
+<img src="e72697f0e27e9ffe53089c1ade7593ee.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Sou um explorador do código e da lógica — mergulhando no Desenvolvimento Mobile e Full-Stack com estratégia e criatividade. Busco transformar algoritmos complexos (como em jogos de estratégia) em experiências visuais ricas e envolventes.
@@ -17,12 +17,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaMagalhaes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GabrielSouzaMagalhaes's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=GabrielSouzaMagalhaes&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GabrielSouzaMagalhaes's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielSouzaMagalhaes&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gabriel  Magalhães's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielSouzaMagalhaes&theme=github_dark&radius=10" alt="GabrielSouzaMagalhaes's Activity Graph" />
 </p>
 
 
@@ -40,10 +34,6 @@
 ### Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSouzaMagalhaes&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/gabriel-souza-magalh%C3%A3es-8a918529a/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/5565981628267" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:gr12570gabriel@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
@@ -52,8 +42,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
