@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=GabrielSouzaMagalhaes">
-    <img src="https://komarev.com/ghpvc/?username=GabrielSouzaMagalhaes&label=Profile%20views&color=00FFFF&style=flat-square" alt="GabrielSouzaMagalhaes's profile views" />
   </a>
 </p>
 
