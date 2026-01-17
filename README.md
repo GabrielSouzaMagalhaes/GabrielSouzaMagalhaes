@@ -11,11 +11,6 @@
 Sou um explorador do código e da lógica — mergulhando no Desenvolvimento Mobile e Full-Stack com estratégia e criatividade. Busco transformar algoritmos complexos (como em jogos de estratégia) em experiências visuais ricas e envolventes.
 
 
-## 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaMagalhaes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GabrielSouzaMagalhaes's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=GabrielSouzaMagalhaes&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GabrielSouzaMagalhaes's GitHub Streak" width="49%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
